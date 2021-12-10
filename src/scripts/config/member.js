@@ -1,5 +1,4 @@
 export default [{
-    {
         "id": "Vansh Dhillon",
         "intro": "Founder • Lead Programmer & Deep Learning Engineer",
         "avatar": require("../../images/avatar/lightless.jpg"),
@@ -58,6 +57,5 @@ export default [{
         "intro": "Web Exploitation",
         "avatar": require("../../images/avatar/lorexxar.jpg"),
         "url": "#"
-    },
- 
-    }];
+    }
+    ]

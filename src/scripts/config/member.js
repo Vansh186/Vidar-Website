@@ -1,4 +1,5 @@
 export default [{
+    {
         "id": "Vansh Dhillon",
         "intro": "Founder • Lead Programmer & Deep Learning Engineer",
         "avatar": require("../../images/avatar/lightless.jpg"),

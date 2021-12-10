@@ -14,7 +14,7 @@ export default [{
         "id": "Akshaj M",
         "intro": "Web Asset",
         "avatar": require("../../images/avatar/deadwind4.jpeg"),
-        "url": "https://instagram.com/"
+        "url": "https://instagram.com"
     },
     {
         "id": "Agrima Sharma",
